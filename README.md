@@ -1,7 +1,7 @@
 # Hi there, I'm Dilay 👋
 
 
-I'm a First-Year undergraduate student at University College London (UCL), doing an MSci (Integrated Master of Science) in Psychology and Language Sciences at the Faculty of Brain Sciences; also the Media Officer of the UCL Neuroscience Society (2020-2021).
+I'm a First-Year undergraduate student at University College London ([UCL](https://www.ucl.ac.uk/)), doing an MSci (Integrated Master of Science) in Psychology and Language Sciences at the Faculty of Brain Sciences; also the Media Officer of the [UCL Neuroscience Society](http://www.uclneurosoc.com/) (2020-2021).
 
 <img align="left" width="400" height="250" src="https://github.com/dilayercelik/dilayercelik/blob/master/ucl2.jpg">
 
