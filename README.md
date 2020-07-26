@@ -24,6 +24,8 @@ I'm a First-Year undergraduate student at University College London ([UCL](https
 
 ✨ I'm always eager to connect with others, and if you have the same interests as me, I'd love to chat 💡
 
+she/her 
+
 - [LinkedIn](https://www.linkedin.com/in/dilay-fidan-ercelik-682675194/)
 
 - [Facebook](https://www.facebook.com/dilay.ercelik)
