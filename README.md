@@ -24,10 +24,11 @@ I enjoy learning and extending my knowledge in all sorts of things, and have rec
 
 🧞 I'm always eager to talk about things I'm curious about.
 
-[LinkedIn](https://www.linkedin.com/in/dilay-fidan-ercelik-682675194/)
-[Facebook](https://www.facebook.com/dilay.ercelik)
+- [LinkedIn](https://www.linkedin.com/in/dilay-fidan-ercelik-682675194/)
 
+- [Facebook](https://www.facebook.com/dilay.ercelik)
 
+- Email me: dilay.ercelik.19@ucl.ac.uk
 
 <!--
 **dilayercelik/dilayercelik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
