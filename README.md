@@ -15,7 +15,7 @@ I'm a First-Year undergraduate student at University College London (UCL), doing
 # Current Highlights
 
 I enjoy learning and extending my knowledge in all sorts of things, and have recently picked up reading again ✨
-  👉 current book I'm reading: Little Women by Louisa May Alcott
+- 👉 current book I'm reading: Little Women by Louisa May Alcott
   
  ![img](https://github.com/dilayercelik/dilayercelik/blob/master/littlewomen.jpg) 
 
