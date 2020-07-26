@@ -12,7 +12,7 @@ I'm a First-Year undergraduate student at University College London (UCL), doing
 🖥 I'm open to all opportunities, and always am interested in discussing topics I'm curious about with others! 
 
 
-# Current Highlights
+# ✨ Current Highlights ✨
 
 I enjoy learning and extending my knowledge in all sorts of things, and have recently picked up reading again ✨
 - 👉 current book I'm reading: [Little Women](https://www.waterstones.com/book/little-women/louisa-may-alcott/elaine-showalter/9780241335130) by Louisa May Alcott
@@ -22,7 +22,7 @@ I enjoy learning and extending my knowledge in all sorts of things, and have rec
 </p>
 
 
-# Contact me :)
+# 🖖 Contact me :)
 
 🧞 I'm always eager to connect with others, and if you have the same interests as me, I'd love to chat 💡
 
