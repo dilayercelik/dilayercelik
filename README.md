@@ -1,4 +1,4 @@
-## Hi there, I'm Dilay 👋
+# Hi there, I'm Dilay 👋
 
 
 I'm a First-Year undergraduate student at University College London (UCL), doing an MSci (Integrated Master of Science) in Psychology and Language Sciences at the Faculty of Brain Sciences; also the Media Officer of the UCL Neuroscience Society (2020-2021).
