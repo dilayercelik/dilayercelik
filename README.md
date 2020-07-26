@@ -1,7 +1,5 @@
 ## Hi there, I'm Dilay 👋
 
-<!--
-**dilayercelik/dilayercelik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 I'm a First-Year undergraduate student at University College London (UCL), doing an MSci (Integrated Master of Science) in Psychology and Language Sciences at the Faculty of Brain Sciences.
 
