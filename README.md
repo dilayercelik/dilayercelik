@@ -9,6 +9,8 @@ I'm a First-Year undergraduate student at University College London (UCL), doing
 
 📚 I'm currently exploring these fields, both in class and on my own: ultimately, I aspire to legitimately combine my interests in ML and neuroscience in a postgraduate programme in the future (Master's): I'm particularly interested in computational/cognitive neuroscience.  
 
+🖥 I'm open to all opportunities, and always am interested in discussing topics I'm curious about with others! 
+
 
 # Current Highlights
 
