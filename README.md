@@ -3,7 +3,7 @@
 
 I'm a First-Year undergraduate student at University College London (UCL), doing an MSci (Integrated Master of Science) in Psychology and Language Sciences at the Faculty of Brain Sciences; also the Media Officer of the UCL Neuroscience Society (2020-2021).
 
-![img]()
+![img](https://github.com/dilayercelik/dilayercelik/blob/master/ucl.jpg)
 
 🧠 During my first year of university, I came to realise that I wanted to satisfy my curiosity in Artifical Intelligence (specifically Machine Learning and Deep Learning) and started growing an interest in neuroscience.
 
