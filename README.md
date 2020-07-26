@@ -18,7 +18,7 @@ I enjoy learning and extending my knowledge in all sorts of things, and have rec
 - 👉 current book I'm reading: Little Women by Louisa May Alcott
  
 <p align="center">
-  <img width="300" height="500" src="https://github.com/dilayercelik/dilayercelik/blob/master/littlewomen.jpg">
+  <img width="300" height="400" src="https://github.com/dilayercelik/dilayercelik/blob/master/littlewomen.jpg">
 </p>
 
 
