@@ -13,6 +13,9 @@ I'm a First-Year undergraduate student at University College London ([UCL](https
 🖥 I'm open to all opportunities, and always am interested in discussing topics I'm curious about with others! 
 
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dilayercelik)](https://github.com/anuraghazra/github-readme-stats)
+
+
 # 🚀 Contact me :)
 
 <img align="right" width="150" height="150" src="https://github.com/dilayercelik/dilayercelik/blob/master/linkedin-profile.jpeg">
