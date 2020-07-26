@@ -10,11 +10,10 @@ I'm a First-Year undergraduate student at University College London (UCL), doing
 📚 I'm currently exploring these fields, both in class and on my own: ultimately, I aspire to legitimately combine my interests in ML and neuroscience in a postgraduate programme in the future (Master's): I'm particularly interested in computational/cognitive neuroscience.  
 
 
+
 I enjoy learning and extending my knowledge in all sorts of things, and have recently picked up reading again ✨
   👉 current book I'm reading: Little Women by Louisa May Alcott
-  
-  
-  
+  <img align="right" width="100" height="100" src="https://github.com/dilayercelik/dilayercelik/blob/master/littlewomen.jpg">  
 
 # Contact me :)
 
