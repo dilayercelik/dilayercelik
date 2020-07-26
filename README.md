@@ -1,6 +1,6 @@
 # Hi there, I'm Dilay 👋
 
-![img](https://github.com/dilayercelik/dilayercelik/blob/master/pic.png)
+![img](https://github.com/dilayercelik/dilayercelik/blob/master/pic2.png)
 
 I'm a First-Year undergraduate student at University College London ([UCL](https://www.ucl.ac.uk/)), doing an MSci (Integrated Master of Science) in Psychology and Language Sciences at the Faculty of Brain Sciences; also the Media Officer of the [UCL Neuroscience Society](http://www.uclneurosoc.com/) (2020-2021).
 
