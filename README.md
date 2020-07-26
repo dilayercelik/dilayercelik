@@ -14,10 +14,9 @@ I'm a First-Year undergraduate student at University College London ([UCL](https
 
 # 🧞 Contact me :)
 
-<img align="right" width="100" height="100" src="https://github.com/dilayercelik/dilayercelik/blob/master/linkedin-profile.jpeg">
-
-
 ✨ I'm always eager to connect with others, and if you have the same interests as me, I'd love to chat 💡
+
+<img align="right" width="200" height="200" src="https://github.com/dilayercelik/dilayercelik/blob/master/linkedin-profile.jpeg">
 
 - [LinkedIn](https://www.linkedin.com/in/dilay-fidan-ercelik-682675194/)
 
