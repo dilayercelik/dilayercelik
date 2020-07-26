@@ -1,4 +1,4 @@
-# Hi there, I'm Dilay 👋
+# Hi there 👋
 
 ![img](https://github.com/dilayercelik/dilayercelik/blob/master/pic2.png)
 
