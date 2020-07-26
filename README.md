@@ -3,6 +3,8 @@
 
 I'm a First-Year undergraduate student at University College London (UCL), doing an MSci (Integrated Master of Science) in Psychology and Language Sciences at the Faculty of Brain Sciences; also the Media Officer of the UCL Neuroscience Society (2020-2021).
 
+![img]()
+
 🧠 During my first year of university, I came to realise that I wanted to satisfy my curiosity in Artifical Intelligence (specifically Machine Learning and Deep Learning) and started growing an interest in neuroscience.
 
 📚 I'm currently exploring these fields, both in class and on my own: ultimately, I aspire to legitimately combine my interests in ML and neuroscience in a postgraduate programme in the future (Master's): I'm particularly interested in computational/cognitive neuroscience.  
