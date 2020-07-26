@@ -1,7 +1,7 @@
 ## Hi there, I'm Dilay 👋
 
 
-I'm a First-Year undergraduate student at University College London (UCL), doing an MSci (Integrated Master of Science) in Psychology and Language Sciences at the Faculty of Brain Sciences.
+I'm a First-Year undergraduate student at University College London (UCL), doing an MSci (Integrated Master of Science) in Psychology and Language Sciences at the Faculty of Brain Sciences; also the Media Officer of the UCL Neuroscience Society (2020-2021).
 
 🧠 During my first year of university, I came to realise that I wanted to satisfy my curiosity in Artifical Intelligence (specifically Machine Learning and Deep Learning) and started growing an interest in neuroscience.
 
