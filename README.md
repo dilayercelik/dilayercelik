@@ -15,7 +15,7 @@ I'm a First-Year undergraduate student at University College London ([UCL](https
 
 # 🌱 My Stats
 
-[![Dilay's github stats](https://github-readme-stats.vercel.app/api?username=dilayercelik&hide=contribs,prs,issues&count_private=true&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+[![Dilay Fidan's github stats](https://github-readme-stats.vercel.app/api?username=dilayercelik&hide=contribs,prs,issues&count_private=true&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
 
 # 🚀 Contact me :)
