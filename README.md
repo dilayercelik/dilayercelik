@@ -13,11 +13,6 @@ I'm a Second-Year undergraduate student at University College London ([UCL](http
 🖥 I'm open to all opportunities, and always interested in discussing topics I'm curious about with others! 
 
 
-# 🌱 My Stats
-
-[![Dilay Fidan's github stats](https://github-readme-stats.vercel.app/api?username=dilayercelik&hide=contribs,prs,issues&count_private=true&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
-
-
 # 🚀 Contact me :)
 
 <img align="right" width="150" height="150" src="https://github.com/dilayercelik/dilayercelik/blob/master/linkedin-profile.jpeg">
