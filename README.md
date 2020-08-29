@@ -23,6 +23,8 @@ I'm a Second-Year undergraduate student at University College London ([UCL](http
 
 - [LinkedIn](https://www.linkedin.com/in/dilay-fidan-ercelik-682675194/)
 
+- [Medium](https://medium.com/@dilay.ercelik)
+
 - [Facebook](https://www.facebook.com/dilay.ercelik)
 
 - Email me: dilay.ercelik.19@ucl.ac.uk
