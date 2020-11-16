@@ -2,7 +2,7 @@
 
 ![img](https://github.com/dilayercelik/dilayercelik/blob/master/pic2.png)
 
-I'm a Second-Year undergraduate student at University College London ([UCL](https://www.ucl.ac.uk/)), doing an MSci (Integrated Master of Science) in Psychology and Language Sciences at the Faculty of Brain Sciences (2019-2023); also the Media Officer of the [UCL Neuroscience Society](http://www.uclneurosoc.com/) (2020-2021) and Research Assistant within UCL Language & Cognition Lab ([ECOLANG](http://www.language-cognition-lab.org/research/ecological-language/) Project).
+I'm a Second-Year undergraduate student at University College London ([UCL](https://www.ucl.ac.uk/)), doing an MSci (Integrated Master of Science) in Psychology and Language Sciences at the Faculty of Brain Sciences (2019-2023); also the Media Officer of the [UCL Neuroscience Society](http://www.uclneurosoc.com/) (2020-2021) and Research Assistant within the UCL Language & Cognition Lab ([ECOLANG](http://www.language-cognition-lab.org/research/ecological-language/) Project).
 
 <img align="left" width="400" height="270" src="https://github.com/dilayercelik/dilayercelik/blob/master/ucl2.jpg">
 
