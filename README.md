@@ -29,7 +29,7 @@ I'm a Second-Year undergraduate student at University College London ([UCL](http
 
 - Email me: dilay.ercelik.19@ucl.ac.uk
 
-![visitors]https://visitor-badge.glitch.me/badge?page_id=dilayercelik.visitor-badge
+![visitors](https://visitor-badge.glitch.me/badge?page_id=dilayercelik.visitor-badge)
 
 <!--
 **dilayercelik/dilayercelik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
