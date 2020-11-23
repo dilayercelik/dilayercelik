@@ -29,6 +29,7 @@ I'm a Second-Year undergraduate student at University College London ([UCL](http
 
 - Email me: dilay.ercelik.19@ucl.ac.uk
 
+![Dilay's github stats](https://github-readme-stats.vercel.app/api?username=dilayercelik&hide=contribs,prs,issues&show_icons=true)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=dilayercelik.visitor-badge)
 
 <!--
