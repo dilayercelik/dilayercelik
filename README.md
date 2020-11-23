@@ -19,17 +19,17 @@ I'm a Second-Year undergraduate student at University College London ([UCL](http
 
 ✨ I'm always eager to connect with others, and if you have the same interests as me, I'd love to chat 💡
 
-(she/her)
-
-- [LinkedIn](https://www.linkedin.com/in/dilay-fidan-ercelik-682675194/)
-
-- [Medium](https://medium.com/@dilay.ercelik)
-
-- [Facebook](https://www.facebook.com/dilay.ercelik)
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/dilay-fidan-ercelik-ucl2023" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="www.linkedin.com/in/dilay-fidan-ercelik-ucl2023" height="30" width="40" /></a>
+<a href="https://fb.com/dilayercelik" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="dilayercelik" height="30" width="40" /></a>
+<a href="https://medium.com/@dilay.ercelik" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@dilay.ercelik" height="30" width="40" /></a>
+</p>
 
 - Email me: dilay.ercelik.19@ucl.ac.uk
 
-![Dilay's github stats](https://github-readme-stats.vercel.app/api?username=dilayercelik&hide=contribs,prs,issues&show_icons=true)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/mathworks.svg" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=dilayercelik.visitor-badge)
 
 <!--
