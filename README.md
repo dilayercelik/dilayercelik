@@ -2,13 +2,13 @@
 
 ![img](https://github.com/dilayercelik/dilayercelik/blob/master/pic2.png)
 
-I'm a Second-Year undergraduate student at University College London ([UCL](https://www.ucl.ac.uk/)), doing an MSci (Integrated Master of Science) in Psychology and Language Sciences at the Faculty of Brain Sciences (2019-2023); also the Media Officer of the [UCL Neuroscience Society](http://www.uclneurosoc.com/) (2020-2021), Research Assistant within the UCL Language & Cognition Lab ([ECOLANG](http://www.language-cognition-lab.org/research/ecological-language/) Project) and NLP Research Mentee.
+I'm a Second-Year undergraduate student at University College London ([UCL](https://www.ucl.ac.uk/)), doing an MSci (Integrated Master of Science) in Psychology and Language Sciences at the Faculty of Brain Sciences (2019-2023); also UG Research Assistant within the UCL Language & Cognition Lab ([ECOLANG](http://www.language-cognition-lab.org/research/ecological-language/) Project) and NLP Research Mentee; about to join the ABL (Prof Sharot) + Imagination Technologies this summer as Placement student in AI Engineering Research.
 
 <img align="left" width="400" height="270" src="https://github.com/dilayercelik/dilayercelik/blob/master/ucl2.jpg">
 
-🧠 During my first year of university, I came to realise that I wanted to (& could) satisfy my long-standing curiosity in Artifical Intelligence (specifically Machine Learning and Deep Learning); I also started to develop an interest in neuroscience.
+🧠 During my first year of university, I realised that I wanted to (& could) satisfy my long-standing curiosity in Artifical Intelligence (specifically Machine Learning and Deep Learning); I also started to develop an interest in neuroscience.
 
-📚 I'm currently exploring these fields, both in class and on my own: ultimately, I aspire to legitimately combine my interests in ML and neuroscience in a postgraduate programme in the future (Master's): I'm particularly interested in computational/cognitive neuroscience and machine learning.  
+📚 I'm currently exploring these fields, both in class and on my own: ultimately, I aspire to  combine my interests in ML and neuroscience in a postgraduate programme (Master's/PhD): I'm particularly interested in computational/cognitive neuroscience and machine learning.  
 
 🖥 I'm open to all opportunities, and always interested in discussing topics I'm curious about with others! 
 
