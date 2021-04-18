@@ -6,9 +6,9 @@ I'm a Second-Year undergraduate student at University College London ([UCL](http
 
 <img align="left" width="400" height="270" src="https://github.com/dilayercelik/dilayercelik/blob/master/ucl2.jpg">
 
-🧠 During my first year of university, I realised that I wanted to (& could) satisfy my long-standing curiosity in Artifical Intelligence (specifically Machine Learning and Deep Learning); I also started to develop an interest in neuroscience.
+🧠 During my first year of university, I realised that I wanted to satisfy my long-standing curiosity in Artificial Intelligence (specifically Machine Learning and Deep Learning); I also started to develop an interest in neuroscience.
 
-📚 I'm currently exploring these fields, both in class and on my own: ultimately, I aspire to  combine my interests in ML and neuroscience in a postgraduate programme (Master's/PhD): I'm particularly interested in computational/cognitive neuroscience and machine learning.  
+📚 I'm currently exploring these fields, both in class and on my own: ultimately, I aspire to  combine my interests in ML and neuroscience in a postgraduate programme (Master's/PhD): I'm particularly interested in computational/cognitive (neuro)science and machine learning.  
 
 🖥 I'm open to all opportunities, and always interested in discussing topics I'm curious about with others! 
 
