@@ -2,7 +2,7 @@
 
 ![img](https://github.com/dilayercelik/dilayercelik/blob/master/pic2.png)
 
-I'm a Second-Year undergraduate student at University College London ([UCL](https://www.ucl.ac.uk/)), doing an MSci (Integrated Master of Science) in Psychology and Language Sciences at the Faculty of Brain Sciences (2019-2023); also UG Research Assistant within the UCL Language & Cognition Lab (PI: Prof Vigliocco at UCL, [ECOLANG](http://www.language-cognition-lab.org/research/ecological-language/) Project) and NLP Research Mentee; I just joined the ABL (PI: Prof Sharot at UCL) and I will be joining Imagination Technologies in July (2021) as Placement student in AI Engineering Research (3 months).
+I'm an undergraduate student at University College London ([UCL](https://www.ucl.ac.uk/)), doing an MSci (Integrated Master of Science) in Psychology and Language Sciences at the Faculty of Brain Sciences (2019-2023); also UG Research Assistant within the UCL Language & Cognition Lab (PI: Prof Vigliocco at UCL, [ECOLANG](http://www.language-cognition-lab.org/research/ecological-language/) Project) and NLP Research Mentee; I just joined the ABL (PI: Prof Sharot at UCL) and I will be joining Imagination Technologies in July (2021) as Placement student in AI Engineering Research (3 months).
 
 <img align="left" width="400" height="270" src="https://github.com/dilayercelik/dilayercelik/blob/master/ucl2.jpg">
 
