@@ -4,7 +4,7 @@
 
 I'm an undergraduate student at University College London ([UCL](https://www.ucl.ac.uk/)), doing an MSci (Integrated Master of Science) in Psychology and Language Sciences at the Faculty of Brain Sciences (2019-2023). For more information, please refer to my [LinkedIn](https://www.linkedin.com/in/dilay-fidan-ercelik-ucl2023/) profile. 
 
-<img align="left" width="400" height="270" src="https://github.com/dilayercelik/dilayercelik/blob/master/ucl2.jpg">
+<img align="left" width="400" height="280" src="https://github.com/dilayercelik/dilayercelik/blob/master/ucl2.jpg">
 
 🧠 During my first year of university, I realised that I wanted to satisfy my long-standing curiosity in Artificial Intelligence (specifically Machine Learning and Deep Learning); I also gained an interest in neuroscience.
 
