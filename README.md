@@ -13,8 +13,7 @@ I'm an undergraduate student at University College London ([UCL](https://www.ucl
 🖥 I'm open to all opportunities, and always interested in discussing topics I'm curious about with others! 
 
 
-# 🚀 Contact me :)
-
+# Contact Details
 <img align="right" width="150" height="150" src="https://github.com/dilayercelik/dilayercelik/blob/master/linkedin-profile.jpeg">
 
 <p align="left">
