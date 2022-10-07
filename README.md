@@ -31,7 +31,6 @@ Find my GitHub page, [here](https://dilayercelik.github.io/).
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=dilayercelik.visitor-badge)
 
-Repo Number: 35
 
 <!--
 **dilayercelik/dilayercelik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
