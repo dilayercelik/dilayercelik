@@ -10,7 +10,6 @@ I'm an undergraduate student at University College London ([UCL](https://www.ucl
 
 📚 I'm currently exploring these fields, both in class and on my own: ultimately, I aspire to  combine my interests in ML and neuroscience in a postgraduate programme (Master's/PhD): I'm particularly interested in computational/cognitive (neuro)science and machine learning.  
 
-🖥 I'm open to all opportunities, and always interested in discussing topics I'm curious about with others! 
 
 
 # Contact Details
