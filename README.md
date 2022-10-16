@@ -13,7 +13,6 @@ For more information, please refer to my [LinkedIn](https://www.linkedin.com/in/
 
 
 # Contact Details
-<img align="right" width="150" height="150" src="https://github.com/dilayercelik/dilayercelik/blob/master/linkedin-profile.jpeg">
 
 <p align="left">
 <a href="https://linkedin.com/in/dilay-fidan-ercelik-ucl2023" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="www.linkedin.com/in/dilay-fidan-ercelik-ucl2023" height="30" width="40" /></a>
