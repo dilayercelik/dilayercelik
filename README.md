@@ -20,7 +20,8 @@ For more information, please refer to my [LinkedIn](https://www.linkedin.com/in/
 <a href="https://medium.com/@dilay.ercelik" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@dilay.ercelik" height="30" width="40" /></a>
 </p>
 
-Alternatively, email me: dilay.ercelik.19@ucl.ac.uk
+Alternatively, email me: [academic address](mailto:dilay.ercelik.19@ucl.ac.uk) or [personal address](mailto:dilay.ercelik@gmail.com)
+
 
 Find my GitHub page [here](https://dilayercelik.github.io/).
 
