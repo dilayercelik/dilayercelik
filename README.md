@@ -7,7 +7,7 @@ For more information, please refer to my [LinkedIn](https://www.linkedin.com/in/
 
 🧠 During my first year of university, I realised that I wanted to satisfy my long-standing curiosity in Artificial Intelligence (specifically Machine Learning and Deep Learning); I also gained an interest in neuroscience.
 
-📚 I'm currently exploring these fields, both in class and on my own: ultimately, I aspire to  combine my interests in ML and neuroscience in a postgraduate programme (Master's/PhD): I'm particularly interested in computational/cognitive (neuro)science and machine learning.  
+📚 I'm currently exploring these fields, both in class and in extracurricular settings: ultimately, I aspire to  combine my interests in ML and neuroscience in a postgraduate programme (Master's/PhD): I'm particularly interested in computational/cognitive (neuro)science and machine learning.  
 
 
 
