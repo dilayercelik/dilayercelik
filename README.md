@@ -1,7 +1,6 @@
 # Hi there 👋
 
-I'm a fourth-year undergraduate student at University College London ([UCL](https://www.ucl.ac.uk/)) where I'm studying for an MSci (Integrated Master of Science) in Psychology and Language Sciences in the Faculty of Brain Sciences (2019-2023). 
-For more information, please refer to my [LinkedIn](https://www.linkedin.com/in/dilay-fidan-ercelik-ucl2023/) profile. 
+I'm a fourth-year undergraduate student at University College London ([UCL](https://www.ucl.ac.uk/)) where I'm studying for an MSci (Integrated Master of Science) in Psychology and Language Sciences in the Faculty of Brain Sciences (2019-2023). I will be undertaking postgraduate (MSc) studies in Artificial Intelligence from September 2023 to September 2024 (London-based). For more information, please refer to my [LinkedIn](https://www.linkedin.com/in/dilay-fidan-ercelik-ucl2023/) profile. 
 
 <img align="left" width="400" height="220" src="https://github.com/dilayercelik/dilayercelik/blob/master/ucl2.jpg">
 
